@@ -1,4 +1,5 @@
 
+
 What is the train_test_split function in Sklearn?
 The train_test_split function of the sklearn.model_selection package in Python splits arrays or matrices into random subsets for train and test data, respectively
 
